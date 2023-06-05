@@ -44,15 +44,23 @@ Here are some ideas to get you started:
 
 <hr>
 
+<!--- stats & Trophy (start) -->
 <p align="center">
-    <img src="unicorn1.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="unicorn1.gif" width="30px" alt="GitHub-Status"/>
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=linhchi7996&theme=light&show_icons=true&count_private=true" /> 
+</td>
 
-<p align="center">
-    <td width="50%" align="center">
-        <img  align="center" width=453 src="https://github-readme-streak-stats.herokuapp.com/?user=linhchi7996&theme=light&hide_border=false"/>
-    </td>
-<img align="right" width=433px alt="Unicorn" src="https://github-readme-stats.vercel.app/api?username=linhchi7996&theme=light&show_icons=true&count_private=true" />
+<td width="50%" align="center">
 
-<br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=linhchi7996&theme=lightl&hide_border=false" />
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
 <hr>
