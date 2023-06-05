@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<img src="gif/contact.gif" width="25px">&nbsp;***Get in touch with me...***
+<img src="contact.gif" width="25px">&nbsp;***Get in touch with me...***
 <p align="left">
     <a href="https://www.facebook.com/profile.php?id=100076564283653"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/linhchi7996/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-    <img src="gif/unicorn1.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="gif/unicorn1.gif" width="30px" alt="GitHub-Status"/>
+    <img src="unicorn1.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="unicorn1.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
 <p align="center">
